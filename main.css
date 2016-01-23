@@ -1,0 +1,17 @@
+#chart {
+  height: 90vh;
+  left: 5vw;
+  position: absolute;
+  top: 5vh;
+  width: 90vw;
+}
+svg {
+  height: 90%;
+  width: 90%;
+}
+
+.selection {
+  stroke: grey;
+  fill: black;
+  fill-opacity: 0.2;
+}
