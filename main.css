@@ -10,8 +10,16 @@ svg {
   width: 90%;
 }
 
-.selection {
+.brush {
   stroke: grey;
-  fill: black;
-  fill-opacity: 0.2;
+  fill: grey;
+  fill-opacity: 0.4;
+}
+
+.inactive {
+  visibility: hidden;
+}
+
+.nv-legendWrap {
+  z-index: 10;
 }
